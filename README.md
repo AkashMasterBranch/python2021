@@ -15,7 +15,7 @@ functions are objects that can be passed around
 
 for loop:
 > for iterator_var in sequence: 
-
+>
 >     statements(s) 
     
 # Resources
