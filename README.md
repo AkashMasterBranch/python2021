@@ -1,5 +1,5 @@
 # python2021
-Documenting concepts in python
+Documenting concepts in python. View with "Display source Blob" 
 
 # Special variable 
 __name__ is a built-in variable which evaluates to the name of the current module
